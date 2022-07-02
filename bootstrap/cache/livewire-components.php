@@ -1,0 +1,17 @@
+<?php return array (
+  'cart-component' => 'App\\Http\\Livewire\\CartComponent',
+  'cart-count-component' => 'App\\Http\\Livewire\\CartCountComponent',
+  'checkout-component' => 'App\\Http\\Livewire\\CheckoutComponent',
+  'contact-component' => 'App\\Http\\Livewire\\ContactComponent',
+  'detail-comonent' => 'App\\Http\\Livewire\\DetailComonent',
+  'footer-component' => 'App\\Http\\Livewire\\FooterComponent',
+  'home-component' => 'App\\Http\\Livewire\\HomeComponent',
+  'my-order-component' => 'App\\Http\\Livewire\\MyOrderComponent',
+  'order-datil-component' => 'App\\Http\\Livewire\\OrderDatilComponent',
+  'review-component' => 'App\\Http\\Livewire\\ReviewComponent',
+  'search-component' => 'App\\Http\\Livewire\\SearchComponent',
+  'shop-component' => 'App\\Http\\Livewire\\ShopComponent',
+  'thankyou-component' => 'App\\Http\\Livewire\\ThankyouComponent',
+  'wishlist-component' => 'App\\Http\\Livewire\\WishlistComponent',
+  'wishlist-count-component' => 'App\\Http\\Livewire\\WishlistCountComponent',
+);
